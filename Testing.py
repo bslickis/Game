@@ -1,5 +1,5 @@
 from g4f.client import Client
-from g4f.Provider import RetryProvider
+# from g4f.Provider import RetryProvider
 
 
 client = Client()
